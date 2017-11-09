@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnappiiTest</string>
+    <string name="no_internet">Нет подключения к интернету</string>
+    <string name="email">Почта:</string>
+    <string name="phone">Телефон:</string>
+    <string name="nat">Национальность:</string>
+    <string name="address">Адрес:</string>
+    <string name="back">Назад</string>
+    <string name="surname">Фамилия:</string>
+    <string name="name">Имя:</string>
+</resources>
